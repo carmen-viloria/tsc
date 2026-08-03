@@ -17,7 +17,7 @@ Coordinating technical direction of the Project
 
 ## Meetings
 
-TSC meetings are intended to be the focal point for the technical community oand its working groups. TSC meetings are open to anyone to attend, unless in the exceptional case that there is a sensitive topic to discuss, which requires a closed session. 
+TSC meetings are intended to be the focal point for the technical community and its working groups. TSC meetings are open to anyone to attend, unless in the exceptional case that there is a sensitive topic to discuss, which requires a closed session. 
 
 ### Meeting Cadence 
 TSC Meetings are held bi-weekly.
@@ -39,6 +39,7 @@ Generally, topics for a TSC meeting include:
 - Recordings of our meetings are found in LFX
 
 ## Communication Channels
+Slack is the primary space for technical discussions. 
 - Public Slack: [#tsc-public](https://x402workspace.slack.com/archives/C0B95HQMC2V)
 - Mailing List: TSC@lists.x402.org, Subscribe at https://lists.x402.org/g/TSC
 - Private Mailing List: TSC-private@lists.x402.org
@@ -50,4 +51,4 @@ Generally, topics for a TSC meeting include:
 | Domain Discovery | [Slack](https://x402workspace.slack.com/archives/C0B9Z8C27EE), [Mailing List](https://lists.x402.org/g/Domain-Discovery)|
 | Identity | [Slack](https://x402workspace.slack.com/archives/C0BA2SQK9GU), [Mailing List](https://lists.x402.org/g/Identity-Working-Group) |
 | Tax | [Slack](https://x402workspace.slack.com/archives/C0B9Z89FP18), [Mailing List](https://lists.x402.org/g/tax-working-group) |
-| Card Acceptance | [Mailing List](https://lists.x402.org/g/Card-Acceptance-Working-Group) |
+| Card Acceptance | [Slack](https://x402workspace.slack.com/archives/C0BH70XKYHL), [Mailing List](https://lists.x402.org/g/Card-Acceptance-Working-Group) | 
