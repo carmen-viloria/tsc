@@ -39,15 +39,16 @@ Generally, topics for a TSC meeting include:
 - Recordings of our meetings are found in LFX
 
 ## Communication Channels
+- Join our Slack workspace: [x402 Slack](https://join.slack.com/t/x402workspace/shared_invite/zt-42zays8tf-gGah0QAWCfuMztIERAfYdg)
 - Public Slack: [#tsc-public](https://x402workspace.slack.com/archives/C0B95HQMC2V)
 - Mailing List: TSC@lists.x402.org, Subscribe at https://lists.x402.org/g/TSC
 - Private Mailing List: TSC-private@lists.x402.org
 
 ## Working Groups (WGs)
 
-| Name | Comm Channels | 
-| --- | --- |
-| Domain Discovery | [Slack](https://x402workspace.slack.com/archives/C0B9Z8C27EE), [Mailing List](https://lists.x402.org/g/Domain-Discovery)|
-| Identity | [Slack](https://x402workspace.slack.com/archives/C0BA2SQK9GU), [Mailing List](https://lists.x402.org/g/Identity-Working-Group) |
-| Tax | [Slack](https://x402workspace.slack.com/archives/C0B9Z89FP18), [Mailing List](https://lists.x402.org/g/tax-working-group) |
-| Card Acceptance | [Mailing List](https://lists.x402.org/g/Card-Acceptance-Working-Group) |
+| Name | Comm Channels | Chair | Co-Chair |
+| --- | --- | --- | --- |
+| Domain Discovery | [Slack](https://x402workspace.slack.com/archives/C0B9Z8C27EE), [Mailing List](https://lists.x402.org/g/Domain-Discovery) | Akash Balasubramani | Mancy Thurston |
+| Identity | [Slack](https://x402workspace.slack.com/archives/C0BA2SQK9GU), [Mailing List](https://lists.x402.org/g/Identity-Working-Group) | Nicole Dunn | Amanda McDermott |
+| Tax | [Slack](https://x402workspace.slack.com/archives/C0B9Z89FP18), [Mailing List](https://lists.x402.org/g/tax-working-group) | Tim Fisher | Joseph Hughes Jr. |
+| Card Acceptance | [Slack](https://x402workspace.slack.com/archives/C0BH70XKYHL), [Mailing List](https://lists.x402.org/g/Card-Acceptance-Working-Group) | Stefano Amorelli | Carson Roscoe |
